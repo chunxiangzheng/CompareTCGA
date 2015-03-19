@@ -98,3 +98,131 @@ unc.edu_SKCM_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
 mdanderson.org_UVM_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.99923e-05
 unc.edu_COAD_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
 unc.edu_BLCA_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	4.99999e-05
+bcgsc.ca_FPPP_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_STAD_IlluminaHiseq_RNASeq.geneExp.tsv	Not found		
+bcgsc.ca_FPPP_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_STAD_IlluminaHiseq_RNASeq.geneExp.tsv	Not found		
+jhu-usc.edu_ACC_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_READ_IlluminaGA_RNASeqV2.geneExp.tsv	tAKR|389932	0
+mdanderson.org_BLCA_MDA_RPPA_Core.RPPA.tsv		5e-05
+bcgsc.ca_BLCA_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_KIRP_HumanMethylation450.betaValue.tsv	rs9839873	0
+bcgsc.ca_KIRC_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_LUSC_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_PRAD_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+bcgsc.ca_CHOL_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_THYM_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+bcgsc.ca_KIRP_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_COAD_HumanMethylation27.betaValue.tsv		5e-05
+jhu-usc.edu_CESC_HumanMethylation450.betaValue.tsv	rs9839873	0
+bcgsc.ca_THYM_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_BLCA_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_READ_IlluminaGA_RNASeq.geneExp.tsv	tAKR|389932	5e-05
+bcgsc.ca_BRCA_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+mdanderson.org_COAD_MDA_RPPA_Core.RPPA.tsv		4.9999e-05
+bcgsc.ca_UCS_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	nan
+bcgsc.ca_CESC_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+mdanderson.org_GBM_MDA_RPPA_Core.RPPA.tsv		4.9999e-05
+unc.edu_READ_IlluminaGA_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_KIRP_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	549.853
+jhu-usc.edu_CHOL_HumanMethylation450.betaValue.tsv	Not found		
+unc.edu_OV_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+unc.edu_TGCT_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_BRCA_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+jhu-usc.edu_READ_HumanMethylation450.betaValue.tsv	rs9839873	0
+mdanderson.org_UCS_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.9998e-05
+bcgsc.ca_ESCA_IlluminaHiSeq_RNASeq.geneExp.tsv	ZZZ3|26009_calculated	0
+unc.edu_CESC_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+mdanderson.org_TGCT_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.99965e-05
+bcgsc.ca_PAAD_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_ESCA_HumanMethylation450.betaValue.tsv	rs9839873	0
+broad.mit.edu_GBM_HT_HG-U133A.geneExp.tsv	tcag7.1314	5e-05
+unc.edu_KIRP_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+jhu-usc.edu_STAD_HumanMethylation450.betaValue.tsv	rs9839873	0
+jhu-usc.edu_BRCA_HumanMethylation450.betaValue.tsv		
+jhu-usc.edu_LIHC_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_HNSC_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+jhu-usc.edu_GBM_HumanMethylation27.betaValue.tsv		5e-05
+unc.edu_SARC_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+mdanderson.org_ESCA_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.99998e-05
+unc.edu_LAML_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_UVM_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_HNSC_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+bcgsc.ca_GBM_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_STAD_HumanMethylation27.betaValue.tsv		5e-05
+jhu-usc.edu_THCA_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_THCA_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+jhu-usc.edu_LUSC_HumanMethylation27.betaValue.tsv		5e-05
+bcgsc.ca_BLCA_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_LUSC_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+unc.edu_GBM_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+unc.edu_UCEC_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+unc.edu_PCPG_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+jhu-usc.edu_PRAD_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_UVM_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+unc.edu_LUAD_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+bcgsc.ca_LGG_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_COAD_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+unc.edu_PRAD_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+bcgsc.ca_HNSC_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_COAD_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	nan
+unc.edu_GBM_AgilentG4502A_07_2.geneExp.tsv	tcag7.350	5e-05
+bcgsc.ca_OV_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+mdanderson.org_THYM_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.99983e-05
+unc.edu_ACC_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_LUSC_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	5e-05
+unc.edu_LUAD_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	5e-05
+unc.edu_THYM_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+mdanderson.org_SARC_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	5e-05
+unc.edu_CHOL_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+bcgsc.ca_LAML_IlluminaGA_RNASeq.geneExp.tsv	ZZZ3|26009_calculated	nan
+unc.edu_OV_H-miRNA_8x15Kv2.miRNAExp.tsv	kshv-miR-K12-9*	5e-05
+unc.edu_LIHC_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+bcgsc.ca_KICH_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_LGG_HumanMethylation450.betaValue.tsv	rs9839873	0
+bcgsc.ca_PCPG_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_KIRC_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	5576.06
+unc.edu_BRCA_IlluminaHiSeq_RNASeq.geneExp.tsv	tAKR|389932	5e-05
+bcgsc.ca_UVM_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_OV_HumanMethylation27.betaValue.tsv		5e-05
+bcgsc.ca_UCEC_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_MESO_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_KICH_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+unc.edu_BLCA_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+unc.edu_KIRP_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+mdanderson.org_BRCA_MDA_RPPA_Core.RPPA.tsv		4.99999e-05
+jhu-usc.edu_LUAD_HumanMethylation450.betaValue.tsv	rs9839873	0
+unc.edu_READ_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+unc.edu_GBM_AgilentG4502A_07_1.geneExp.tsv	tcag7.350	5e-05
+mdanderson.org_SKCM_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	5e-05
+unc.edu_UCS_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+bcgsc.ca_STAD_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+mdanderson.org_PRAD_MDA_RPPA_Core.RPPA.tsv		4.9997e-05
+bcgsc.ca_THCA_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_ACC_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+mdanderson.org_UCEC_MDA_RPPA_Core.RPPA.tsv		4.99997e-05
+unc.edu_BLCA_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+lbl.gov_LUSC_HuEx-1_0-st-v2.miRNAExp.tsv	tcag7.945	9.34938
+bcgsc.ca_KIRP_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_LUAD_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+unc.edu_GBM_H-miRNA_8x15K.miRNAExp.tsv	kshv-miR-K12-9*	4.99997e-05
+unc.edu_LGG_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+mdanderson.org_READ_MDA_RPPA_Core.RPPA.tsv		4.9999e-05
+bcgsc.ca_ESCA_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_COAD_IlluminaGA_RNASeq.geneExp.tsv	tAKR|389932	100.139
+jhu-usc.edu_HNSC_HumanMethylation450.betaValue.tsv	rs9839873	0
+mdanderson.org_OV_MDA_RPPA_Core.RPPA.tsv		1.42977
+mdanderson.org_LUSC_MDA_RPPA_Core.RPPA.tsv		4.99975e-05
+bcgsc.ca_UCEC_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+jhu-usc.edu_LUAD_HumanMethylation27.betaValue.tsv		5e-05
+unc.edu_KIRC_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+bcgsc.ca_HNSC_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_PRAD_IlluminaHiSeq_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_UCEC_IlluminaHiSeq_RNASeqV2.isoformExp.tsv	uc011nby.1	0
+bcgsc.ca_LUSC_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+unc.edu_UCEC_AgilentG4502A_07_3.geneExp.tsv	tcag7.350	5e-05
+unc.edu_OV_IlluminaHiSeq_RNASeqV2.geneExp.tsv	tAKR|389932	0
+mdanderson.org_CHOL_MDA_RPPA_Core.RPPA.tsv	YB-1-R-V	4.99973e-05
+unc.edu_CHOL_IlluminaHiSeq_RNASeqV2.geneExp.tsv	ZZZ3|26009	0
+bcgsc.ca_LUAD_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05
+bcgsc.ca_BRCA_IlluminaGA_miRNASeq.miRNAExp.tsv	hsa-mir-99b	5e-05

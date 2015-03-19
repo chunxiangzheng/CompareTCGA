@@ -4,8 +4,8 @@ import os
 import sys
 import time
 
-def compare2Files(fname, originFiles, newFiles, syn):
-    os.system("rm -r /mnt/*")
+def compare2Files(fname, originFiles, newFiles, syn, fout):
+   # os.system("rm -r /mnt/*")
     if not fname in originFiles:
         return fname + "\tNot found\t\t\n"
     df1 = pd.read_csv(syn.get(originFiles[fname], downloadLocation="/mnt").path, sep="\t", index_col=0, na_values=['null']).astype('float')
@@ -14,7 +14,9 @@ def compare2Files(fname, originFiles, newFiles, syn):
     df2 = df2.ix[:, sorted(df2.columns)]
     missingGene = ",".join(df2.index - df1.index)
     maxdiff = (df1.ix[:,:] - df2.ix[df1.index,:]).abs().max().max()
-    return "%s\t%s\t%g\n"%(fname, missingGene, maxdiff)
+    msg = "%s\t%s\t%g\n"%(fname, missingGene, maxdiff)
+    print msg
+    fout.write(msg)
     
 original = "syn2812961"
 new = "syn3270657"
@@ -45,7 +47,7 @@ while i < len(keys):
         continue
 
     try:
-        fout.write(compare2Files(fname, originFiles, newFiles, syn))
+        compare2Files(fname, originFiles, newFiles, syn, fout)
     except Exception as e:
         print e
         if tmp > 60: 
