@@ -5,7 +5,7 @@ import sys
 import time
 
 def compare2Files(fname, originFiles, newFiles, syn):
-    os.system("rm -r /home/ubuntu/.synapseCache")
+    os.system("rm -r /home/ubuntu/.synapseCache/*")
     if not fname in originFiles:
         return fname + "\tNot found\t\t\n"
     df1 = pd.read_csv(syn.get(originFiles[fname]).path, sep="\t", index_col=0, na_values=['null']).astype('float')
