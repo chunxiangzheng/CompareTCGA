@@ -2,8 +2,10 @@ import pandas as pd
 import synapseclient
 import os
 import sys
+import time
 
 def compare2Files(fname, originFiles, newFiles, syn):
+    os.system("rm -r /home/ubuntu/.synapseCache")
     if not fname in originFiles:
         return fname + "\tNot found\t\t\n"
     df1 = pd.read_csv(syn.get(originFiles[fname]).path, sep="\t", index_col=0, na_values=['null']).astype('float')
@@ -32,8 +34,26 @@ for line in f:
 f.close()
 
 fout = open("fileDifference.tsv", "a")
-for fname in newFiles:
-    if fname in s: continue
-    fout.write(compare2Files(fname, originFiles, newFiles, syn))
+keys = newFiles.key()
+i = 0
+tmp = 1
+while i < len(keys):
+    fname = keys[i]
+    print fname
+    if fname in s: 
+        i += 1
+        continue
+
+    try:
+        fout.write(compare2Files(fname, originFiles, newFiles, syn))
+    except Exception as e:
+        print e
+        if tmp > 60: 
+            break
+        time.sleep(tmp)
+        tmp *= 2
+        continue
+    
+    i += 1
 
 fout.close()
