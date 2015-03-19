@@ -5,12 +5,12 @@ import sys
 import time
 
 def compare2Files(fname, originFiles, newFiles, syn):
-    os.system("rm -r /home/ubuntu/.synapseCache/*")
+    os.system("rm -r /mnt/*")
     if not fname in originFiles:
         return fname + "\tNot found\t\t\n"
-    df1 = pd.read_csv(syn.get(originFiles[fname]).path, sep="\t", index_col=0, na_values=['null']).astype('float')
+    df1 = pd.read_csv(syn.get(originFiles[fname], downloadLocation="/mnt").path, sep="\t", index_col=0, na_values=['null']).astype('float')
     df1 = df1.ix[:, sorted(df1.columns)]
-    df2 = pd.read_csv(syn.get(newFiles[fname]).path, sep="\t", index_col=0, na_values=['null']).astype('float')
+    df2 = pd.read_csv(syn.get(newFiles[fname], downloadLocation="/mnt").path, sep="\t", index_col=0, na_values=['null']).astype('float')
     df2 = df2.ix[:, sorted(df2.columns)]
     missingGene = ",".join(df2.index - df1.index)
     maxdiff = (df1.ix[:,:] - df2.ix[df1.index,:]).abs().max().max()
