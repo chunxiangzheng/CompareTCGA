@@ -34,7 +34,7 @@ for line in f:
 f.close()
 
 fout = open("fileDifference.tsv", "a")
-keys = newFiles.key()
+keys = newFiles.keys()
 i = 0
 tmp = 1
 while i < len(keys):
